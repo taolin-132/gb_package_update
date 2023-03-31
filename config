@@ -1,0 +1,18 @@
+[database]
+dbhost : 127.0.0.1
+dbname : CAS
+dbport : 54321
+dbuser : SYSTEM
+dbpassword : system
+
+[path_config]
+data_package : E:\档案技术文档\易升、国标数据包\国标\foshan\data_package
+old_filepath : E:\档案技术文档\易升、国标数据包\国标\foshan\原图
+new_filepath : E:\档案技术文档\易升、国标数据包\国标\foshan\高清
+
+
+[other]
+#人员显示在某单位的ID
+depart_id : 300
+
+
